@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: cursive,sans-serif;
+}
+h1{
+    font-size: 3.25rem;
+    margin: 0 ;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: cursive,sans-serif;
+    font-size: 40px;
+}
+h3{
+    color: #11999E;
+    font-family: cursive,sans-serif;
+}
+#dev{
+    font-weight: normal;
+    color: #66BFBF;
+    margin-top:0px ;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    
+}
+.middle-container{
+   margin: 100px auto 100px auto;
+}
+
+.chilli{
+    border-radius: 100%;
+}
+
+.computer{
+    border-radius: 50%;
+}
+hr{
+    margin: 100px auto 100px auto;
+    border:  dotted 6px;
+    color:#fca3cc;
+    width: 6%;
+    border-bottom: none;
+}
+
+.nik-profile{
+    width: 200px;
+    height:200px ;
+    border-radius: 50%;
+}
+.bottom-container{
+   background-color: #66BFBF;
+   margin-top: 45px;
+   padding: 50px 0px 20px;
+}
+
+.footer-link{
+    color:#11999E ;
+    text-decoration: none;
+    padding:17px ;
+}
+.signature{
+    color: #EAF6F6;
+}
+span{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+p{
+    line-height: 2;
+    color: #40514E;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: cursive,sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 19px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+        
